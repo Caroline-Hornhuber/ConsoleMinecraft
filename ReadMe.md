@@ -3,7 +3,7 @@ Ich hab in der ertsen Minecraft in der Konsole gemacht. Der code ist SEHR hässl
 Entschuldigung für den uncleancode ich hab das damals ende des ersten semesters gemacht...
 Es wirl Wahrscheinlich eine geupdatete verision geben mit frontend angular und backend c# :P.
 
-Btw credits an [@username](https://github.com/aichingert)) für die ein oder andere hilfe <3
+Btw credits an [@aichingert](https://github.com/aichingert)) für die ein oder andere hilfe <3
 
 
 # Originaltext von damals
