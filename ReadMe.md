@@ -1,3 +1,12 @@
+# Minecraft
+Ich hab in der ertsen Minecraft in der Konsole gemacht. Der code ist SEHR hässlich das muss ich zugeben. Damals hats funktioniert hoffe jetzt gehts auch noch :P (liegt an der .net version glaub ich idfk) 
+Entschuldigung für den uncleancode ich hab das damals ende des ersten semesters gemacht...
+Es wirl Wahrscheinlich eine geupdatete verision geben mit frontend angular und backend c# :P.
+
+Btw credits an [@username](https://github.com/aichingert)) für die ein oder andere hilfe <3
+
+
+# Originaltext von damals
 ja ich hab minecraft in 2d gemacht natürlich einfacher
 bitte mit visual studio 2022 und istaliertem .net6 öffnen
 
